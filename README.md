@@ -1,0 +1,2 @@
+# Authentication-Web-Page-Development-using-Python
+This template is a start for those who want to create websites having authentication pages inside. It prompts the user to create an account before accessing the home page. The home has been designed such that the user can create and add notes. The signup page allows one to register personal details, they will be stored in a database; plus the notes
